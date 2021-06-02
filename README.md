@@ -116,28 +116,22 @@ date. There should be four PNG files and four R code files.
 
 The four plots that you will need to construct are shown below. 
 
-
 ### Plot 1
 
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
+![plot1](https://user-images.githubusercontent.com/81735942/120423682-f1cbef80-c37b-11eb-971c-9aed993b45dc.png)
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+![plot2](https://user-images.githubusercontent.com/81735942/120423711-0314fc00-c37c-11eb-8a9a-1b377ba7cab2.png)
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot3](https://user-images.githubusercontent.com/81735942/120423747-1627cc00-c37c-11eb-91d3-36efc46366cf.png)
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot4](https://user-images.githubusercontent.com/81735942/120423762-1f189d80-c37c-11eb-87d0-fc82a26a0e30.png)
 
-![plot1](https://user-images.githubusercontent.com/81735942/120423600-c47f4180-c37b-11eb-935d-37f308265bf3.png)
-![plot2](https://user-images.githubusercontent.com/81735942/120423604-c6e19b80-c37b-11eb-9285-fcaefe618130.png)
-![plot3](https://user-images.githubusercontent.com/81735942/120423607-c8ab5f00-c37b-11eb-8398-c70de71ff4ee.png)
-![plot4](https://user-images.githubusercontent.com/81735942/120423619-cea14000-c37b-11eb-8bbd-213233af8876.png)
+
+
